@@ -1,4 +1,4 @@
-package methodref;
+package methodref.start;
 
 import java.util.function.BinaryOperator;
 
